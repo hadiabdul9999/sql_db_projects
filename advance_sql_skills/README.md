@@ -8,7 +8,7 @@
 
 ## Introduction
 
-Welcome to my Advanced SQL Skills Showcase! In this document, I will demonstrate my proficiency in SQL through a series of carefully crafted queries and accompanying outputs. SQL (Structured Query Language) is a powerful tool for managing, querying, and analyzing data, and throughout this showcase, I will illustrate how I leverage this skill to extract valuable insights from databases.
+Welcome to my Advanced SQL Skills Showcase! In this document, I will demonstrate my proficiency in SQL through a series of carefully crafted queries and accompanying outputs. SQL (Structured Query Language) is a powerful tool for managing, querying, and analyzing data, and throughout this showcase, I will illustrate how I leverage this skill to extract valuable insights from databases. Please bear in mind that the data used for the queries has been subsetted to ensure uploading to the repo.
 
 ## SQL Queries
 
