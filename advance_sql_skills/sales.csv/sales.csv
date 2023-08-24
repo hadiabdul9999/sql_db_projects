@@ -1,0 +1,5 @@
+product_id,store_id,date,sales,revenue,stock,price,promo_type_1,promo_bin_1,promo_type_2,promo_bin_2,promo_discount_2,promo_discount_type_2
+P0001,S0002,1/2/2017,0,0,8,6.25,PR14,,PR03,,,
+P0001,S0012,1/2/2017,1,5.3,0,6.25,PR14,,PR03,,,
+P0001,S0013,1/2/2017,2,10.59,0,6.25,PR14,,PR03,,,
+P0001,S0023,1/2/2017,0,0,6,6.25,PR14,,PR03,,,
