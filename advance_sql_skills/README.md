@@ -145,7 +145,7 @@ In essence, this query provides an overview of sales/revenue metrics, giving you
 #### SQL Code
 
 ```sql
--- SQL Query 6
+-- SQL Query 7
     SELECT
       ROUND(AVG(product_length), 2) AS avg_length,
       ROUND(AVG(product_depth), 2) AS avg_depth,
